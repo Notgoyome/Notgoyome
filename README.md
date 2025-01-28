@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TRAN Guillaume</h1>
+<h1 align="center">Hi 👋, I'm notgoyome</h1>
 <h3 align="left">I'm a dev student, I make video games and I draw sometime </h3>
 <p align="left">
 </p>
